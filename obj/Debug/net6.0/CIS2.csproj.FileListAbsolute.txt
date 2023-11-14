@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\CIS2\bin\Debug\net6.0\CIS2.exe
+C:\Users\User\source\repos\CIS2\bin\Debug\net6.0\CIS2.deps.json
+C:\Users\User\source\repos\CIS2\bin\Debug\net6.0\CIS2.runtimeconfig.json
+C:\Users\User\source\repos\CIS2\bin\Debug\net6.0\CIS2.dll
+C:\Users\User\source\repos\CIS2\bin\Debug\net6.0\CIS2.pdb
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.AssemblyInfo.cs
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.dll
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\refint\CIS2.dll
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.pdb
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\CIS2.genruntimeconfig.cache
+C:\Users\User\source\repos\CIS2\obj\Debug\net6.0\ref\CIS2.dll
